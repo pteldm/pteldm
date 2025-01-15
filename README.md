@@ -34,6 +34,6 @@
 <br>
 
 >O sucesso é o acúmulo de pequenos esforços **dia** após **dia**.
-- Robert Collier.
+Robert Collier.
 
 
