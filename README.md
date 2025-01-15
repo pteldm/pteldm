@@ -2,7 +2,7 @@
 ### Sobre mim
 - 📗Atualmente sou aluno do bacharelado em Ciências e Tecnologia na Universidade Federal do Rio Gande do Norte
 - 📘O que estou estudando atualmente?
-  * Estou aprendendo POO em C++
+  * Estou aprendendo programação avançada em C++ (POO, programação visual, threads e sockets)
   * Probabilidade e estatística
   * Sistemas Digitais
 - 📙Futuro engenheiro de computação
